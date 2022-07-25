@@ -61,7 +61,7 @@ body {
 
 .description {
     color:  hsl(228, 12%, 48%);
-    line-height: 1.8rem;
+    line-height: 1.4rem;
 }
 
 .product_price ul{
@@ -69,7 +69,7 @@ body {
     align-items: center;
     list-style-type: none;
     justify-content: left;
-    margin: 1rem 1.5rem;
+    margin: 1rem .8rem;
 
 }
 
@@ -87,7 +87,7 @@ body {
 .add_to_cart {
     width: 90%;
     display: flex;
-    margin: 1rem 1rem 1rem 1rem;
+    margin: auto;
     outline: none;
     border-radius: 5px;
     border: none;
@@ -125,7 +125,7 @@ body {
 
     .product_image {
         background-image: url('images/image-product-desktop.jpg');
-         max-width: 500px;
+         
     }
     
 
